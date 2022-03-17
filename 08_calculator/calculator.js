@@ -1,24 +1,24 @@
-const add = function() {
+const add = () => {
 	
 };
 
-const subtract = function() {
+const subtract = () => {
 	
 };
 
-const sum = function() {
+const sum = () => {
 	
 };
 
-const multiply = function() {
+const multiply = () => {
 
 };
 
-const power = function() {
+const power = () => {
 	
 };
 
-const factorial = function() {
+const factorial = () => {
 	
 };
 
